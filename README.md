@@ -1,45 +1,32 @@
 <div align="center">
+  <h1>Hi, I’m Hamid Molareza 👋</h1>
 
-<h1>Hi, I’m Hamid Molareza 👋</h1>
-
-**Product-minded .NET backend engineer** ⚙️💡  
-
-I like building backend systems that solve real business problems and stay **reliable, maintainable, and scalable** ✅
-
+  **Product-minded .NET backend engineer** ⚙️💡  
+  I build backend systems that solve real business problems and stay **reliable, maintainable, and scalable** ✅
 </div>
 
 ---
 
-## What I focus on 🎯
-- **Clean code** and clear boundaries ✨ (readability, simplicity, strong naming).
-- **System design & architecture** 🏗️: Clean/Onion, CQRS; familiar with DDD and microservices.
-- **Testing** 🧪: TDD mindset, xUnit.
-- **Reliability & observability** 📈: structured logging, monitoring, and production hygiene.
-- **DevOps & delivery** 🚀: CI/CD pipelines, Docker, and Linux-first workflows.
+## Snapshot
+- **Focus:** Clean architecture, resilient APIs, and pragmatic delivery.
+- **Mindset:** Product thinking + engineering quality.
+- **Strengths:** Ownership, clarity, and dependable execution.
 
 ---
 
-## Tech stack 🧰
-**Backend**
-- C#, .NET, ASP.NET Core
-- REST APIs, **gRPC**
-- SQL Server, Redis
-
-**Quality**
-- xUnit, TDD practices
-- Code reviews, refactoring, engineering standards
-
-**Ops / Platform**
-- Docker
-- GitHub Actions / GitLab CI
-- Linux (Ubuntu), Nginx
-- Ansible
+## What I care about & work with 🎯
+- **Clean code & boundaries** ✨ (readability, simplicity, strong naming).
+- **System design & architecture** 🏗️: Clean/Onion, CQRS; familiar with DDD and microservices.
+- **Testing culture** 🧪: TDD mindset, xUnit.
+- **Reliability & observability** 📈: structured logging, monitoring, and production hygiene.
+- **DevOps & delivery** 🚀: CI/CD pipelines, Docker, and Linux-first workflows.
+- **Stack**: .NET (C#, ASP.NET Core), REST/gRPC, SQL Server, Redis; Docker; CI (GitHub Actions/GitLab); Linux/Nginx; Ansible.
 
 ---
 
 ## Leadership & teamwork
-- I’ve mentored junior developers, done code reviews, and helped teams improve engineering practices.  
-- In small-to-medium teams, I can also take ownership around architecture and technical direction
+- Mentored junior developers, done code reviews, and improved team engineering practices.
+- In small-to-medium teams, I can take ownership of architecture and technical direction.
 
 ---
 
@@ -63,7 +50,9 @@ I like building backend systems that solve real business problems and stay **rel
 ---
 
 ## GitHub stats 📊
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidmolareza&show_icons=true&locale=en&layout=compact" alt="hamidmolareza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidmolareza&show_icons=true&locale=en" alt="hamidmolareza" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidmolareza&show_icons=true&locale=en&layout=compact" alt="hamidmolareza" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidmolareza&show_icons=true&locale=en" alt="hamidmolareza" />
+</p>
