@@ -2,7 +2,6 @@
   <h1>Hi, I’m Hamid Molareza 👋</h1>
 
   **Product-minded .NET backend engineer** ⚙️💡  
-  I build backend systems that solve real business problems and stay **reliable, maintainable, and scalable** ✅
 </div>
 
 ---
